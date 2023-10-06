@@ -1,0 +1,23 @@
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #00808036;
+}
+
+
+#projects{
+    background-color: #00808036;
+}
+
+
+footer{
+    background-color: teal;
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+section{
+    padding-top: 5rem;
+}
